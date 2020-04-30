@@ -154,6 +154,13 @@ textarea {
   font-weight: 400
 }
 
+html {
+  max-width: 98.4%
+}
+body {
+  max-width: 101%
+}
+
 #intro, div.fancy-card {
   background: #5f2c82;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);  /* Chrome 10-25, Safari 5.1-6 */
@@ -195,7 +202,7 @@ p, span {
 
 footer {
   font-family: "Baloo Paaji 2";
-  margin-top: 30%;
+  margin-top: 10%;
   color: #fff;
   text-align: center;
 }
